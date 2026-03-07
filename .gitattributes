@@ -1,1 +1,8 @@
+# テキストファイルのeol統一
 * text=auto eol=lf
+
+# CSS/JS/JSONはバイナリ扱いにしてeol変換を無効化（SRI整合性維持のため）
+*.css binary
+*.js  binary
+*.json binary
+*.xml binary
