@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wabi-lab.blog/sitemap.xml
