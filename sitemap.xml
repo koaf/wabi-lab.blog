@@ -3,61 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://wabi-lab.blog/posts/shibou-riyuusho-kakikata/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wabi-lab.blog/tags/ao%E5%85%A5%E8%A9%A6/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/authors/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/categories/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/posts/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/tags/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/authors/wabi-lab/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wabi-lab.blog/tags/%E3%82%A2%E3%83%89%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/tags/%E5%BF%97%E6%9C%9B%E7%90%86%E7%94%B1%E6%9B%B8/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://wabi-lab.blog/tags/%E8%87%AA%E5%B7%B1pr/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <loc>https://wabi-lab.blog/tags/%E8%87%AA%E5%B7%B1%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wabi-lab.blog/categories/%E6%9B%B8%E9%A1%9E%E5%AF%BE%E7%AD%96/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://wabi-lab.blog/tags/%E7%B7%8F%E5%90%88%E5%9E%8B%E9%81%B8%E6%8A%9C/</loc>
+    <lastmod>2026-03-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wabi-lab.blog/tags/%E8%87%AA%E5%B7%B1pr/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
